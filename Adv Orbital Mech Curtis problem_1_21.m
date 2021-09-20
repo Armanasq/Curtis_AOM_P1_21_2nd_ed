@@ -1,4 +1,6 @@
-
+%% Orbital Mechanics for Engineering Students (Second Edition)
+% Howard D. Curtis
+% page 58
 function problem_1_21
 
 x0 = 1; 
